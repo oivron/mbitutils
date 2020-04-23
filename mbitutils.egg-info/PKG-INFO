@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: mbitutils
+Version: 0.0.2
+Summary: Extra modules for the BBC micro:bit and Bit:bot.
+Home-page: https://github.com/oivron/mbitutils
+Author: Øivind Rønning, Statped
+Author-email: oiron@statped.no
+License: UNKNOWN
+Description: # Package microbit-extras
+        
+        This is a simple example package. You can use
+        [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+        to write your content.
+        
+Keywords: micro:bit Bit:bot
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - AlphaIntended Audience :: EducationOperating System :: Microsoft :: Windows :: Windows 10Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
