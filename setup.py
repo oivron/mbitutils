@@ -15,9 +15,9 @@ setuptools.setup(
     url="https://github.com/oivron/mbitutils",
     packages=setuptools.find_packages(include=['bitbot', 'music', 'speech']),
     classifiers=[
-        "Development Status :: 3 - Alpha"
-        "Intended Audience :: Education - Visually impaired children"
-        "Operating System :: Microsoft :: Windows :: Windows 10"
+        "Development Status :: 3 - Alpha",
+        "Intended Audience :: Education",
+        "Operating System :: Microsoft :: Windows :: Windows 10",
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
     ],

@@ -1,3 +1,0 @@
-bitbot
-music
-speech
