@@ -1,5 +1,7 @@
-from microbit import *
-
+"""
+Author: Øivind Rønning, Statped
+Github: https://github.com/oivron/mbitutils
+"""
 
 class __Music:
     """Music stuff"""

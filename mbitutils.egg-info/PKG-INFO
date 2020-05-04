@@ -1,20 +1,34 @@
 Metadata-Version: 2.1
 Name: mbitutils
-Version: 0.0.2
-Summary: Extra modules for the BBC micro:bit and Bit:bot.
+Version: 0.0.3
+Summary: Python modules for the 4tronix Bit:bot and the BBC micro:bit.
 Home-page: https://github.com/oivron/mbitutils
 Author: Øivind Rønning, Statped
 Author-email: oiron@statped.no
-License: UNKNOWN
-Description: # Package microbit-extras
+License: GNU GENERAL PUBLIC LICENSE
+Project-URL: Source, https://github.com/oivron/mbitutils
+Description: # mbitutils
         
-        This is a simple example package. You can use
-        [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-        to write your content.
+        Python modules for the 4tronix Bit:bot and the BBC micro:bit.
+        
+        The modules for the micro:bit complements the following modules: https://github.com/PhonicCanine/microbit.
+        
+        We recommend using Visual Studio Code as the prefered source code editor for visually impaired students.
+        
+        ## Usage
+        See [micro:bit Micropython API](https://microbit-micropython.readthedocs.io/en/latest/microbit_micropython_api.html) for a complete documentation/API on how to use the micro:bit.
+        
+        Modules should be imported by
+            from bitbot import *
+            from music import *
+            from speech import *
+        
+        ## Installation
+            pip install mbitutils
         
 Keywords: micro:bit Bit:bot
 Platform: UNKNOWN
-Classifier: Development Status :: 3 - AlphaIntended Audience :: EducationOperating System :: Microsoft :: Windows :: Windows 10Programming Language :: Python :: 3
+Classifier: Development Status :: 3 - AlphaIntended Audience :: Education - Visually impaired childrenOperating System :: Microsoft :: Windows :: Windows 10Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
-Requires-Python: >=3.6
+Requires-Python: >=3
 Description-Content-Type: text/markdown
