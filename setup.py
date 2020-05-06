@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mbitutils",
-    version="0.0.3",
+    version="0.0.4",
     author="Øivind Rønning, Statped",
     author_email="oiron@statped.no",
     license = "GNU GENERAL PUBLIC LICENSE",
