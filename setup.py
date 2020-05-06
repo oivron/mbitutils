@@ -9,7 +9,7 @@ setuptools.setup(
     author="Øivind Rønning, Statped",
     author_email="oiron@statped.no",
     license = "GNU GENERAL PUBLIC LICENSE",
-    description="Python modules for the 4tronix Bit:bot and the BBC micro:bit.",
+    description="A Python module for the 4tronix Bit:bot XL and stubs for the BBC micro:bit.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/oivron/mbitutils",

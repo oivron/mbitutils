@@ -43,7 +43,8 @@ class __Bitbot:
     def spinms(self, direction, speed, duration):
         """Rotate robot in direction at speed for milliseconds.
         direction: LEFT or RIGHT
-        speed in %"""
+        speed in %
+        duration in milliseconds"""
 
         self.__drive(direction, speed)
         sleep(duration)
