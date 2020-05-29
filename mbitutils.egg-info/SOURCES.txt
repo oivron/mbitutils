@@ -1,7 +1,0 @@
-README.md
-setup.py
-mbitutils.egg-info/PKG-INFO
-mbitutils.egg-info/SOURCES.txt
-mbitutils.egg-info/dependency_links.txt
-mbitutils.egg-info/requires.txt
-mbitutils.egg-info/top_level.txt
